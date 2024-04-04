@@ -1,0 +1,4 @@
+pandas
+fyers-apiv2
+SQLAlchemy
+ta
